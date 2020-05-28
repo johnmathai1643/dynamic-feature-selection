@@ -9,6 +9,8 @@ This project uses reinforcement learning and deep learning built using pytorch. 
 Provided in the requirements file
 
 ## Running the code
+```
 python dynamic_selection.py
+```
 
 Dataset is not provided due to privacy restrictions. Running the code requires the appropriate data for sepsis (your require permission from MIMIC-III Clinical Database PhysioNet).
